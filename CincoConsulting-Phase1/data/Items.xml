@@ -1,0 +1,97 @@
+<items>
+  <equipment>
+    <code>dca4b8e6-9c13-4b1d-aeef-1e3f237f9a9a</code>
+    <type>E</type>
+    <name>Monitor</name>
+    <pricePerUnit>199.99</pricePerUnit>
+  </equipment>
+  <equipment>
+    <code>b215f55a-84a7-4b67-a920-1fc157a4da7f</code>
+    <type>E</type>
+    <name>Keyboard</name>
+    <pricePerUnit>25.95</pricePerUnit>
+  </equipment>
+  <equipment>
+    <code>ff4b3209-1ac5-49ab-a84f-93b5475cf346</code>
+    <type>E</type>
+    <name>Greentooth Mouse</name>
+    <pricePerUnit>17.5</pricePerUnit>
+  </equipment>
+  <equipment>
+    <code>0a3d88d9-2b8a-441f-beb3-cbe03f77db02</code>
+    <type>E</type>
+    <name>Server Rack</name>
+    <pricePerUnit>650.0</pricePerUnit>
+  </equipment>
+  <equipment>
+    <code>3dff1b7f-1ed0-44b3-a763-f6d04b6e0ff1</code>
+    <type>E</type>
+    <name>Surge Protector</name>
+    <pricePerUnit>8.99</pricePerUnit>
+  </equipment>
+  <service>
+    <code>864c15b2-c21f-4cb9-95de-97fd245fa473</code>
+    <type>S</type>
+    <name>Delivery</name>
+    <hourlyRate>50.0</hourlyRate>
+  </service>
+  <service>
+    <code>8ff9b933-dc7e-44b9-9864-e5e76f1c7357</code>
+    <type>S</type>
+    <name>Phone Tech Support</name>
+    <hourlyRate>25.0</hourlyRate>
+  </service>
+  <service>
+    <code>4c3cb0ec-833b-41b3-b842-54a5d27bcb9e</code>
+    <type>S</type>
+    <name>Tech Analysis</name>
+    <hourlyRate>75.0</hourlyRate>
+  </service>
+  <service>
+    <code>7c1b401b-4a6b-4d31-80a2-03798183e4f9</code>
+    <type>S</type>
+    <name>White Glove Tech Support</name>
+    <hourlyRate>125.5</hourlyRate>
+  </service>
+  <service>
+    <code>9eb9938f-b581-43c1-b4bc-b5fa4c6f60f7</code>
+    <type>S</type>
+    <name>Software Development</name>
+    <hourlyRate>350.45</hourlyRate>
+  </service>
+  <license>
+    <code>2b727fbc-257d-4ef1-a9d0-f3e09b72a59b</code>
+    <type>L</type>
+    <name>Cloud Storage</name>
+    <annualFee>50.0</annualFee>
+    <serviceFee>12500.0</serviceFee>
+  </license>
+  <license>
+    <code>5416e75f-34d4-4974-9d19-bfdb8a5c2fc9</code>
+    <type>L</type>
+    <name>Oracle Database</name>
+    <annualFee>0.0</annualFee>
+    <serviceFee>36000.36</serviceFee>
+  </license>
+  <license>
+    <code>fa9cdbd8-c9b7-4f89-9be6-bc64b62fe6c0</code>
+    <type>L</type>
+    <name>SM367</name>
+    <annualFee>150.0</annualFee>
+    <serviceFee>600.0</serviceFee>
+  </license>
+  <license>
+    <code>bbf7a3e0-d4f0-47e2-bb3a-6f3ed3fd5f17</code>
+    <type>L</type>
+    <name>AI Slop Cleanup 400</name>
+    <annualFee>500.75</annualFee>
+    <serviceFee>120.15</serviceFee>
+  </license>
+  <license>
+    <code>b4f02d75-d29b-468d-a244-1a1e3d5d92a6</code>
+    <type>L</type>
+    <name>SM Office</name>
+    <annualFee>25.99</annualFee>
+    <serviceFee>1212.12</serviceFee>
+  </license>
+</items>

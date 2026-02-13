@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "pricePerUnit": 5800.0,
+      "code": "aba4b8e6-9c13-4b1d-aeef-1e3f237f2a9a",
+      "type": "E",
+      "name": "2011 BMW 328i xDrive"
+    },
+    {
+      "annualFee": 80000.0,
+      "serviceFee": 500.0,
+      "code": "eff02d75-d29b-468d-a244-1a1e3d5d92a6",
+      "type": "L",
+      "name": "Some Adobe Scam"
+    },
+    {
+      "hourlyRate": 150.0,
+      "code": "a111b8e6-9c13-4b1d-aeef-1e3f237f2a9b",
+      "type": "S",
+      "name": "McKinsey Consulting Service"
+    }
+  ]
+}

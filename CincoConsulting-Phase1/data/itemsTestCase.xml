@@ -1,0 +1,21 @@
+<items>
+  <equipment>
+    <code>aba4b8e6-9c13-4b1d-aeef-1e3f237f2a9a</code>
+    <type>E</type>
+    <name>2011 BMW 328i xDrive</name>
+    <pricePerUnit>5800.0</pricePerUnit>
+  </equipment>
+  <license>
+    <code>eff02d75-d29b-468d-a244-1a1e3d5d92a6</code>
+    <type>L</type>
+    <name>Some Adobe Scam</name>
+    <annualFee>80000.0</annualFee>
+    <serviceFee>500.0</serviceFee>
+  </license>
+  <service>
+    <code>a111b8e6-9c13-4b1d-aeef-1e3f237f2a9b</code>
+    <type>S</type>
+    <name>McKinsey Consulting Service</name>
+    <hourlyRate>150.0</hourlyRate>
+  </service>
+</items>

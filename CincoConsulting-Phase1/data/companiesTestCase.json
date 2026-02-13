@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "companyUuid": "1234",
+      "contactUuid": "5678",
+      "name": "Barrons Financial News",
+      "address": {
+        "street": "1600 Pennsylvania Ave",
+        "city": "Washington",
+        "state": "D.C.",
+        "zip": "20500"
+      },
+      "invoices": []
+    },
+    {
+      "companyUuid": "9",
+      "contactUuid": "9",
+      "name": "Lewis\u0027 Funny Joke Business For Funny People",
+      "address": {
+        "street": "101 Gamer St",
+        "city": "Dubuque",
+        "state": "Iowa",
+        "zip": "6875309"
+      },
+      "invoices": []
+    }
+  ]
+}

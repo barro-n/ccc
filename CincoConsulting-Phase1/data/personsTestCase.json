@@ -1,0 +1,23 @@
+{
+  "persons": [
+    {
+      "personUuid": "28693502",
+      "firstName": "Barron",
+      "lastName": "Vaughn",
+      "phone": "531-218-6508",
+      "emails": [
+        "bvaughn5@huskers.unl.edu",
+        "barron47@proton.me"
+      ]
+    },
+    {
+      "personUuid": "28693502",
+      "firstName": "Lewis",
+      "lastName": "Rokke",
+      "phone": "531-218-6508",
+      "emails": [
+        "lrokke2@huskers.unl.edu"
+      ]
+    }
+  ]
+}

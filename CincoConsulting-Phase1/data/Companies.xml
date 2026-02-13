@@ -1,0 +1,62 @@
+<companies>
+  <company>
+    <companyUuid>d7b92a68-b6f3-40f3-a852-33c3d722e1ab</companyUuid>
+    <contactUuid>c7a945dd-61b3-4e99-95a1-68e5c22624d3</contactUuid>
+    <name>Whitmore &amp; Associates</name>
+    <address>
+      <street>5827 Harrison Ave</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zip>60609</zip>
+    </address>
+    <invoices/>
+  </company>
+  <company>
+    <companyUuid>1b05d3d2-3d59-46fb-9736-b6c9785328c9</companyUuid>
+    <contactUuid>fa302d1e-bcb0-4ab1-b364-12a902846287</contactUuid>
+    <name>Westbrook Solutions</name>
+    <address>
+      <street>2154 Maplewood Drive</street>
+      <city>Orlando</city>
+      <state>FL</state>
+      <zip>32801</zip>
+    </address>
+    <invoices/>
+  </company>
+  <company>
+    <companyUuid>aaec1bcf-02b3-4b88-8e9a-b0b8fc97392d</companyUuid>
+    <contactUuid>aec587f1-0f4d-48ff-95c9-0a14e9b7889f</contactUuid>
+    <name>Greenfield Technologies</name>
+    <address>
+      <street>1346 W. Adams Street</street>
+      <city>San Diego</city>
+      <state>CA</state>
+      <zip>92101</zip>
+    </address>
+    <invoices/>
+  </company>
+  <company>
+    <companyUuid>58c32fa3-e51a-44f4-bf1e-ea53a820b9f5</companyUuid>
+    <contactUuid>d9bb5e0b-89fa-4a5d-a5ec-0132f118dd6a</contactUuid>
+    <name>Millstone Ventures</name>
+    <address>
+      <street>9200 Oak Ridge Dr</street>
+      <city>Los Angeles</city>
+      <state>CA</state>
+      <zip>90045</zip>
+    </address>
+    <invoices/>
+  </company>
+  <company>
+    <companyUuid>ffcd2c88-b85d-48db-9187-c837dd13a12e</companyUuid>
+    <contactUuid>f2c10ba9-b49a-42b4-8e71-8e87076267b0</contactUuid>
+    <name>Southgate Industries</name>
+    <address>
+      <street>3185 Birchwood Road</street>
+      <city>Austin</city>
+      <state>TX</state>
+      <zip>73301</zip>
+    </address>
+    <invoices/>
+  </company>
+</companies>

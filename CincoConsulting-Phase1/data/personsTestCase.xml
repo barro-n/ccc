@@ -1,0 +1,21 @@
+<persons>
+  <person>
+    <personUuid>28693502</personUuid>
+    <firstName>Barron</firstName>
+    <lastName>Vaughn</lastName>
+    <phone>531-218-6508</phone>
+    <emails>
+      <string>bvaughn5@huskers.unl.edu</string>
+      <string>barron47@proton.me</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>28693502</personUuid>
+    <firstName>Lewis</firstName>
+    <lastName>Rokke</lastName>
+    <phone>531-218-6508</phone>
+    <emails>
+      <string>lrokke2@huskers.unl.edu</string>
+    </emails>
+  </person>
+</persons>
