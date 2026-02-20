@@ -8,15 +8,17 @@ allowing CSV files to be input and output as both XML and JSON files.
 
 This phase contains the following classes:
 
-* DataConverter.Java - Handles the actual parsing and conversion
-* Address.java
-* Company.java
-* Invoice.java
-* Person.java
-* Item.java
+* DataConverter.java
+* DataLoader.java
+* DataPersister.java
+* Addresses.java
+* Companies.java
+* Invoices.java
+* Persons.java
+* Items.java
 	* Equipment.java (extends Item)
-	* License.java	 (extends Item)
-	* Service.java	 (extends Item)
+	* Licenses.java	 (extends Item)
+	* Services.java	 (extends Item)
 	
 This project requires the following dependencies:
 XStream - for XML conversion

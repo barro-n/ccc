@@ -1,7 +1,6 @@
 <companies>
   <company>
-    <companyUuid>1234</companyUuid>
-    <contactUuid>5678</contactUuid>
+    <companyUuid>00000001-0002-0003-0004-000000000005</companyUuid>
     <name>Barrons Financial News</name>
     <address>
       <street>1600 Pennsylvania Ave</street>
@@ -12,9 +11,8 @@
     <invoices/>
   </company>
   <company>
-    <companyUuid>9</companyUuid>
-    <contactUuid>9</contactUuid>
-    <name>Lewis&apos; Funny Joke Business For Funny People</name>
+    <companyUuid>00000001-0002-0003-0004-000000000005</companyUuid>
+    <name>Lewis Funny Joke Business For Funny People</name>
     <address>
       <street>101 Gamer St</street>
       <city>Dubuque</city>

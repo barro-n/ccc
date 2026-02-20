@@ -5,8 +5,8 @@
     <lastName>Winters</lastName>
     <phone>536-284-9214</phone>
     <emails>
-      <string>ewinters2@webmd.com</string>
-      <string>ewinters2@spotify.com</string>
+      <email>ewinters2@webmd.com</email>
+      <email>ewinters2@spotify.com</email>
     </emails>
   </person>
   <person>
@@ -15,7 +15,7 @@
     <lastName>Crissman</lastName>
     <phone>972-541-3124</phone>
     <emails>
-      <string>jcrissman3@outlook.com</string>
+      <email>jcrissman3@outlook.com</email>
     </emails>
   </person>
   <person>
@@ -24,8 +24,8 @@
     <lastName>Brennan</lastName>
     <phone>473-359-5782</phone>
     <emails>
-      <string>obrennan7@gmail.com</string>
-      <string>obrennan7@linkedin.com</string>
+      <email>obrennan7@gmail.com</email>
+      <email>obrennan7@linkedin.com</email>
     </emails>
   </person>
   <person>
@@ -41,8 +41,8 @@
     <lastName>Hayes</lastName>
     <phone>267-454-1793</phone>
     <emails>
-      <string>shayes1@live.com</string>
-      <string>shayes1@dropbox.com</string>
+      <email>shayes1@live.com</email>
+      <email>shayes1@dropbox.com</email>
     </emails>
   </person>
   <person>
@@ -51,8 +51,8 @@
     <lastName>Delaney</lastName>
     <phone>439-572-9281</phone>
     <emails>
-      <string>rdelaney9@flickr.com</string>
-      <string>rdelaney9@lastfm.com</string>
+      <email>rdelaney9@flickr.com</email>
+      <email>rdelaney9@lastfm.com</email>
     </emails>
   </person>
   <person>
@@ -61,8 +61,8 @@
     <lastName>McClain</lastName>
     <phone>527-342-7634</phone>
     <emails>
-      <string>zmcclain7@ebay.com</string>
-      <string>zmcclain7@apple.com</string>
+      <email>zmcclain7@ebay.com</email>
+      <email>zmcclain7@apple.com</email>
     </emails>
   </person>
   <person>
@@ -71,8 +71,8 @@
     <lastName>Robinson</lastName>
     <phone>710-594-1203</phone>
     <emails>
-      <string>lrobinson8@outlook.com</string>
-      <string>lrobinson8@w3.org</string>
+      <email>lrobinson8@outlook.com</email>
+      <email>lrobinson8@w3.org</email>
     </emails>
   </person>
   <person>
@@ -88,8 +88,8 @@
     <lastName>Peterson</lastName>
     <phone>640-298-4181</phone>
     <emails>
-      <string>apeterson9@wordpress.com</string>
-      <string>apeterson9@amazon.com</string>
+      <email>apeterson9@wordpress.com</email>
+      <email>apeterson9@amazon.com</email>
     </emails>
   </person>
 </persons>

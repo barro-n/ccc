@@ -2,7 +2,16 @@
   "companies": [
     {
       "companyUuid": "d7b92a68-b6f3-40f3-a852-33c3d722e1ab",
-      "contactUuid": "c7a945dd-61b3-4e99-95a1-68e5c22624d3",
+      "primaryContact": {
+        "personUuid": "c7a945dd-61b3-4e99-95a1-68e5c22624d3",
+        "firstName": "Eva",
+        "lastName": "Winters",
+        "phone": "536-284-9214",
+        "emails": [
+          "ewinters2@webmd.com",
+          "ewinters2@spotify.com"
+        ]
+      },
       "name": "Whitmore \u0026 Associates",
       "address": {
         "street": "5827 Harrison Ave",
@@ -14,7 +23,15 @@
     },
     {
       "companyUuid": "1b05d3d2-3d59-46fb-9736-b6c9785328c9",
-      "contactUuid": "fa302d1e-bcb0-4ab1-b364-12a902846287",
+      "primaryContact": {
+        "personUuid": "fa302d1e-bcb0-4ab1-b364-12a902846287",
+        "firstName": "James",
+        "lastName": "Crissman",
+        "phone": "972-541-3124",
+        "emails": [
+          "jcrissman3@outlook.com"
+        ]
+      },
       "name": "Westbrook Solutions",
       "address": {
         "street": "2154 Maplewood Drive",
@@ -26,7 +43,16 @@
     },
     {
       "companyUuid": "aaec1bcf-02b3-4b88-8e9a-b0b8fc97392d",
-      "contactUuid": "aec587f1-0f4d-48ff-95c9-0a14e9b7889f",
+      "primaryContact": {
+        "personUuid": "aec587f1-0f4d-48ff-95c9-0a14e9b7889f",
+        "firstName": "Amanda",
+        "lastName": "Peterson",
+        "phone": "640-298-4181",
+        "emails": [
+          "apeterson9@wordpress.com",
+          "apeterson9@amazon.com"
+        ]
+      },
       "name": "Greenfield Technologies",
       "address": {
         "street": "1346 W. Adams Street",
@@ -38,7 +64,13 @@
     },
     {
       "companyUuid": "58c32fa3-e51a-44f4-bf1e-ea53a820b9f5",
-      "contactUuid": "d9bb5e0b-89fa-4a5d-a5ec-0132f118dd6a",
+      "primaryContact": {
+        "personUuid": "d9bb5e0b-89fa-4a5d-a5ec-0132f118dd6a",
+        "firstName": "Riley",
+        "lastName": "McLain",
+        "phone": "659-784-1209",
+        "emails": []
+      },
       "name": "Millstone Ventures",
       "address": {
         "street": "9200 Oak Ridge Dr",
@@ -50,7 +82,16 @@
     },
     {
       "companyUuid": "ffcd2c88-b85d-48db-9187-c837dd13a12e",
-      "contactUuid": "f2c10ba9-b49a-42b4-8e71-8e87076267b0",
+      "primaryContact": {
+        "personUuid": "f2c10ba9-b49a-42b4-8e71-8e87076267b0",
+        "firstName": "Liam",
+        "lastName": "Robinson",
+        "phone": "710-594-1203",
+        "emails": [
+          "lrobinson8@outlook.com",
+          "lrobinson8@w3.org"
+        ]
+      },
       "name": "Southgate Industries",
       "address": {
         "street": "3185 Birchwood Road",

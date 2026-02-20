@@ -4,7 +4,7 @@ package com.cinco;
  * Represents Equipment that can be purchased or leased, extends the
  * functionality of the Item class.
  */
-public class Equipment extends Item {
+public class Equipment extends Items {
 	private double pricePerUnit;
 
 	public Equipment(String code, String type, String name, double pricePerUnit) {

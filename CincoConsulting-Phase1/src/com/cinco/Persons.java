@@ -1,19 +1,20 @@
 package com.cinco;
 
 import java.util.List;
+import java.util.UUID;
 
 /**
  * Represents a person, storing details including UUID, name, and contact
  * information.
  */
-public class Person {
-	private String personUuid;
+public class Persons {
+	private UUID personUuid;
 	private String firstName;
 	private String lastName;
 	private String phone;
 	private List<String> emails;
 
-	public Person(String personUuid, String firstName, String lastName, String phone, List<String> emails) {
+	public Persons(UUID personUuid, String firstName, String lastName, String phone, List<String> emails) {
 		this.personUuid = personUuid;
 		this.firstName = firstName;
 		this.lastName = lastName;
@@ -21,7 +22,7 @@ public class Person {
 		this.emails = emails;
 	}
 
-	public String getPersonUuid() {
+	public UUID getPersonUuid() {
 		return personUuid;
 	}
 

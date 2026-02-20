@@ -3,13 +3,13 @@ package com.cinco;
 /**
  * Represents a physical address used for companies.
  */
-public class Address {
+public class Addresses {
 	private String street;
 	private String city;
 	private String state;
 	private String zip;
 
-	public Address(String street, String city, String state, String zip) {
+	public Addresses(String street, String city, String state, String zip) {
 		this.street = street;
 		this.city = city;
 		this.state = state;

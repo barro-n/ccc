@@ -1,8 +1,7 @@
 {
   "companies": [
     {
-      "companyUuid": "1234",
-      "contactUuid": "5678",
+      "companyUuid": "00000001-0002-0003-0004-000000000005",
       "name": "Barrons Financial News",
       "address": {
         "street": "1600 Pennsylvania Ave",
@@ -13,9 +12,8 @@
       "invoices": []
     },
     {
-      "companyUuid": "9",
-      "contactUuid": "9",
-      "name": "Lewis\u0027 Funny Joke Business For Funny People",
+      "companyUuid": "00000001-0002-0003-0004-000000000005",
+      "name": "Lewis Funny Joke Business For Funny People",
       "address": {
         "street": "101 Gamer St",
         "city": "Dubuque",

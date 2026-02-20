@@ -2,44 +2,45 @@ package com.cinco;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.UUID;
 
 /**
  * Represents a company, storing details including a UUID, contact person UUID,
  * name, address, and invoice list (not yet implemented).
  */
-public class Company {
-	private String companyUuid;
-	private String contactUuid;
+public class Companies {
+	private UUID companyUuid;
+	private Persons primaryContact;
 	private String name;
-	private Address address;
-	private List<Invoice> invoices;
+	private Addresses address;
+	private List<Invoices> invoices;
 
-	public Company(String companyCode, String contactCode, String name, Address address) {
+	public Companies(UUID companyCode, Persons primaryContact, String name, Addresses address) {
 		this.companyUuid = companyCode;
-		this.contactUuid = contactCode;
+		this.primaryContact = primaryContact;
 		this.name = name;
 		this.address = address;
 
 		this.invoices = new ArrayList<>();
 	}
 
-	public String getCompanyCode() {
+	public UUID getCompanyCode() {
 		return companyUuid;
 	}
 
-	public String getContactCode() {
-		return contactUuid;
+	public Persons getPrimaryContact() {
+		return primaryContact;
 	}
 
 	public String getName() {
 		return name;
 	}
 
-	public Address getAddress() {
+	public Addresses getAddress() {
 		return address;
 	}
 
-	public List<Invoice> getInvoices() {
+	public List<Invoices> getInvoices() {
 		return invoices;
 	}
 }
