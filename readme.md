@@ -13,6 +13,7 @@ Consultants development project.
 	* Phase 3 - Invoice System and Report Generation
 	* Phase 4 - Database Design & Impementation
 	* Phase 5 - Object Instantiation and Database Persistence
+	* Phase 6 - Database Interaction API
 
 These phases contain the following classes:
 
@@ -24,6 +25,7 @@ Utilities & Drivers:
 	* DatabaseLoader.java - Handles SQL retrieval and object mapping
 	* ConnectionFactory.java - Establishes and manages the JDBC connection to the database
 	* InvoiceReport.java - Main Driver for reporting
+	* InvoiceData.java - Suite of methods for interacting with the database
 
 General Entities:
 
