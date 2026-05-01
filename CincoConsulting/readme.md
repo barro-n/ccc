@@ -5,15 +5,16 @@ Authors:<br>
 Barron Vaughn - bvaughn5@huskers.unl.edu - NUID: 28693502<br>
 Lewis Rokke - lrokke2@huskers.unl.edu - NUID: 79613756<br>
 
-This project contains the Phase 1, 2, 3, 4, and 5 implementations of the Cinco Computer
+This project contains the Phase 1, 2, 3, 4, 5, 6, and 7 implementations of the Cinco Computer
 Consultants development project.
 
 	* Phase 1 - Electronic Data Interchange
 	* Phase 2 - Class Hierarchy Design and Testing
 	* Phase 3 - Invoice System and Report Generation
-	* Phase 4 - Database Design & Impementation
+	* Phase 4 - Database Design & Implementation
 	* Phase 5 - Object Instantiation and Database Persistence
 	* Phase 6 - Database Interaction API
+	* Phase 7 - Sorted List ADT
 
 These phases contain the following classes:
 
@@ -26,6 +27,7 @@ Utilities & Drivers:
 	* ConnectionFactory.java - Establishes and manages the JDBC connection to the database
 	* InvoiceReport.java - Main Driver for reporting
 	* InvoiceData.java - Suite of methods for interacting with the database
+	* SortedList.java - Generic sorted list ADT
 
 General Entities:
 
@@ -50,7 +52,8 @@ Testing Classes:
 
 	* EntityTests.java - Validates cost and tax logic for individual billing configurations.
 	* InvoiceTests.java - Validates aggregation and total calculations for full invoices.
-
+	* SortedListTests.java - Unit tests for the sorted list
+	
 <br>
 This project requires the following dependencies:
 

@@ -15,6 +15,8 @@ import java.util.UUID;
  * 
  * @author barron
  * @author lewis
+ * 
+ *
  */
 public class InvoiceData {
 
